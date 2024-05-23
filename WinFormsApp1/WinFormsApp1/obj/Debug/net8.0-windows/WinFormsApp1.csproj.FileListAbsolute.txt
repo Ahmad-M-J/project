@@ -1,0 +1,17 @@
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\ahmad\OneDrive\Desktop\ahmad project game\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
